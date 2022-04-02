@@ -16,7 +16,6 @@ const data = {
 const App = () => {
   const [option, setOption] = useState(null);
 
-  // console.log(data[option]);
   return (
     <div id="main">
       <select
